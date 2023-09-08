@@ -29,6 +29,15 @@ https://github.com/mOctave/es-callisto
 A bit of a dump containing some weird ideas I've had that affect human space.
 https://github.com/mOctave/moar-humanity
 
+### Atlantian League
+An old, naval-esque plugin of mine adding a new faction to the game in the east of the galaxy. Long abandoned, probably overlaps with Gegno content now. Only available in .zip form.
+
+### Azenezon
+A plugin I abandoned before I truly started on it, featuring one small, high-tier ship available with the all-content plugin. Only available in .zip form.
+
+### US Election Maps
+A joke plugin I put together that nonetheless functions as a practical tool for viewing American historical election maps as far back as 2004. I'm not sure that the 2000 one is correct. Only available in .zip form.
+
 # My Forks
 
 I have forks of most of the main ES repositories, as well as some others. I'll include the links here, but not the repos (they should be self-evident).
