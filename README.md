@@ -27,6 +27,7 @@ https://github.com/mOctave/es-callisto
 
 ### Moar Humanity
 A bit of a dump containing some weird ideas I've had that affect human space.
+https://github.com/mOctave/moar-humanity
 
 # My Forks
 
