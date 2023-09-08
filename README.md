@@ -19,6 +19,7 @@ https://github.com/mOctave/eternal-shuttle
 
 ### Toblerone
 A plugin featuring what I believe to be the largest ship ever made for ES, far outranking the pitiful Quaernan. Only available in .zip form, this is a finished product and will *not* be updated. I believe all the many bugs to be unavoidable and caused by me pushing the Endless Sky game engine well beyond its limits (most ES ship graphics aren't measured in megapixels).
+If you want the original version of the Toblerone plugin with @2x assets, please contact me on Discord or via email at moctave31415@gmail.com and I will arrange to send them to you over Google Drive. Unfortunately, the original is too big for both Discord and GitHub to easily handle.
 
 ### ES Callisto
 A small plugin including some minor lore and flavour text and adding Callisto as a landing location in Sol. This is a finished product and will *not* be updated unless there are breaking changes in ES.  
