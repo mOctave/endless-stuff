@@ -5,17 +5,17 @@ My hub for all of my Endless Sky related content and projects, of which there ar
 
 ## ES Dawn
 An old plugin of mine written as a prequel to the main story arch. Incompatible lore-wise with vanilla ES, very buggy, and completely unmaintained for at least a year now. Never completed.  
-https://github.com/mOctave/es-dawn
+https://github.com/mOctave/es-dawn  
 **Status**: Abandoned, semi-functional
 
 ## Blended Ships
 My largest "content" plugin, a spliced ships mod where all the ships are made in Blender and are realistic in terms of stats and shortcomings. You won't find any OP ships here, but you will find the Eagle.  
-https://github.com/mOctave/blended-ships
+https://github.com/mOctave/blended-ships  
 **Status**: In progress, functional
 
 ## Eternal Shuttle
 One of my latest plugins, still under heavy development, in which the player has to fight off an alien invasion in only a shuttle, in a universe where the original First Last never existed.  
-https://github.com/mOctave/eternal-shuttle
+https://github.com/mOctave/eternal-shuttle  
 **Status**: In progress, semi-functional
 
 ## Minor Plugins
@@ -27,12 +27,12 @@ If you want the original version of the Toblerone plugin with @2x assets, please
 
 ### ES Callisto
 A small plugin including some minor lore and flavour text and adding Callisto as a landing location in Sol. This is a finished product and will *not* be updated unless there are breaking changes in ES.  
-https://github.com/mOctave/es-callisto
+https://github.com/mOctave/es-callisto  
 **Status**: Finished, functional
 
 ### Moar Humanity
 A bit of a dump containing some weird ideas I've had that affect human space.  
-https://github.com/mOctave/moar-humanity
+https://github.com/mOctave/moar-humanity  
 **Status**: Unknown
 
 ### Atlantian League
