@@ -73,6 +73,10 @@ The Searchers in plugin format are available on the Discord server.
 
 The latest version of the ES Map I have made is 0.10.0. Spoilers are not included. Feel free to distribute it however you wish as long as you do not remove the watermark.
 
+# Meteor Missile Cutaway
+
+This is my interpretation of the internal workings of the Meteor Missile as of the year 2793. This work is licensed under a CC-BY-SA-4.0 license, and was derived from works by Becca Tommaso and Michael Zahniser. Feel free to use as you wish as long as you provide credit where credit is due.
+
 # Other Things
 
 I recently wrote a Python script to analyze data files for mission completion and report back. It is free for anyone to use and adapt, but please give credit (even if informally) if you share it or a modified version of it.
