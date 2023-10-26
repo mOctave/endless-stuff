@@ -85,6 +85,8 @@ I recently wrote a Python script to analyze data files for mission completion an
 
 Some while ago, I had an idea to create a high-quality set of data sheets for both vanilla and alien content. It is outdated but fairly reliable for vanilla content from November 2022, and I abandoned it when I realized the difficulties in figuring out trivia like ship manufacturers for plugin content, but if you want it it's available at https://docs.google.com/spreadsheets/d/1OAz5Iw9k-U2T6uEGj2FA5dMpE-VLJ4ekm80Z7IdDi8M/edit?usp=sharing.
 
+Here is my relative ship abundance spreadsheet, accurate as of version 0.10.4: https://docs.google.com/spreadsheets/d/1P05nS0vKUA0khCnKQC-WIQZ2guYL6aVwb48x9_skGZU/edit?usp=sharing. Ship abundances are calculated based on natural fleet spawns at the beginning of the game. If you want the code I used to calculate all this, you can find it under ShipCountCalculator.java. A compiled version is not available, you willl have to compile and run it using `javac ShipCountCalculator.java` and `java ShipCountCalculator`.
+
 ## Ship Comparisons
 
 Last year, I put together a now outdated booklet of ES ship comparisons. If you want it, it's here.
