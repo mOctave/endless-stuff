@@ -71,7 +71,7 @@ The Searchers in plugin format are available on the Discord server.
 
 # Map of Endless Sky
 
-The latest version of the ES Map I have made is 0.10.0. Spoilers are not included. Feel free to distribute it however you wish as long as you do not remove the watermark.
+The latest version of the ES Map I have made is 0.10.5. Spoilers are not included. Feel free to distribute it however you wish as long as you do not remove the watermark. This map, along with others, is available in the `maps` directory.
 
 # Meteor Missile Cutaway
 
