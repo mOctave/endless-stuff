@@ -66,8 +66,8 @@ https://github.com/mOctave/firlas-rules
 
 Most Searcher development is happening on Discord as of now. To join my server, use this link: https://discord.gg/j6KqfFBsSp  
 The new lore document is available at https://docs.google.com/document/d/1XA7ylaV3JeJ4EdZtHXq5NjFSPyii1s5L2wJ5wdguuVY/edit?usp=sharing  
-The specific branch the content is on is https://github.com/mOctave/endless-sky/tree/feat(race)-1, although it probably has merge conflicts and is definitely behind the upstream.  
-The Searchers in plugin format are available on the Discord server.
+I have now migrated Searchers content off of my fork and over to https://github.com/mOctave/searchers, in plugin format.  
+I'm continuing to aim for vanilla.
 
 # Map of Endless Sky
 
