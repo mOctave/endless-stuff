@@ -14,9 +14,14 @@ https://github.com/mOctave/blended-ships
 **Status**: In progress, functional
 
 ## Eternal Shuttle
-One of my latest plugins, still under heavy development, in which the player has to fight off an alien invasion in only a shuttle, in a universe where the original First Last never existed.  
+A very unfinished plugin in which the player has to fight off an alien invasion in only a shuttle, in a universe where the original First Last never existed.  
 https://github.com/mOctave/eternal-shuttle  
-**Status**: In progress, semi-functional
+**Status**: Abandoned, semi-functional
+
+## Taskship
+A plugin which offers jobs only to captains of specific flagship models. Designed as an experimental approach to bring more love to underused ships.
+https://github.com/mOctave/taskship
+**Status**: In progress, functional
 
 ## Minor Plugins
 
