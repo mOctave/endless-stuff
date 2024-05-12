@@ -94,4 +94,4 @@ Here is my relative ship abundance spreadsheet, accurate as of version 0.10.4: h
 
 ## Ship Comparisons
 
-Last year, I put together a now outdated booklet of ES ship comparisons. If you want it, it's here.
+Last year, I put together a now outdated booklet of ES ship comparisons. If you want it, it's [here](https://github.com/mOctave/endless-stuff/blob/main/ES%20Ship%20Comparisons.pdf).
