@@ -74,9 +74,11 @@ The new lore document is available at https://docs.google.com/document/d/1XA7yla
 I have now migrated Searchers content off of my fork and over to https://github.com/mOctave/searchers, in plugin format.  
 I'm continuing to aim for vanilla.
 
-# Map of Endless Sky
+# Map Stuff
 
-The latest version of the ES Map I have made is 0.10.5. Spoilers are not included. Feel free to distribute it however you wish as long as you do not remove the watermark. This map, along with others, is available in the `maps` directory.
+I am currently working on a Endless Sky map generator. It's up and running at https://github.com/mOctave/mapgen, and mostly functional, although there's still some bugs that need smoothing out. I plan to use the map generator to publish all future versions of the Endless Sky Map.
+
+Speaking of the map, the latest public version remains 0.10.5. Spoilers are not included. Feel free to distribute it however you wish as long as you do not remove the watermark. This map, along with others, is available in the `maps` directory.
 
 # Meteor Missile Cutaway
 
