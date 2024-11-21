@@ -94,6 +94,8 @@ Some while ago, I had an idea to create a high-quality set of data sheets for bo
 
 Here is my relative ship abundance spreadsheet, accurate as of version 0.10.4: https://docs.google.com/spreadsheets/d/1P05nS0vKUA0khCnKQC-WIQZ2guYL6aVwb48x9_skGZU/edit?usp=sharing. Ship abundances are calculated based on natural fleet spawns at the beginning of the game. If you want the code I used to calculate all this, you can find it under ShipCountCalculator.java. A compiled version is not available, you willl have to compile and run it using `javac ShipCountCalculator.java` and `java ShipCountCalculator`.
 
+Here is a spreadsheet of current (last updated 0.10.10) planet and system attributes and the planets and systems that use them: https://docs.google.com/spreadsheets/d/1YsAR1AsyE9rEWZF6UvupnSHVAMKNxaMm87tHucDXdzM/edit?usp=sharing.
+
 ## Ship Comparisons
 
 Last year, I put together a now outdated booklet of ES ship comparisons. If you want it, it's [here](https://github.com/mOctave/endless-stuff/blob/main/ES%20Ship%20Comparisons.pdf).
