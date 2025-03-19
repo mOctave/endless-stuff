@@ -99,3 +99,7 @@ Here is a spreadsheet of current (last updated 0.10.10) planet and system attrib
 ## Ship Comparisons
 
 Last year, I put together a now outdated booklet of ES ship comparisons. If you want it, it's [here](https://github.com/mOctave/endless-stuff/blob/main/ES%20Ship%20Comparisons.pdf).
+
+## ESDF Manager
+
+If you're looking to develop tools for ES in Java, I have a library for you! See https://github.com/mOctave/esdf-manager.
